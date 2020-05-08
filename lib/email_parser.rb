@@ -10,7 +10,7 @@ class EmailAddressParser
   end
   
   def parse 
-    puts splitEmail
+    puts splitEmail = email_addresses
   
   
 end
